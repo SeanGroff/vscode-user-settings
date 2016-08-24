@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // spaces > tabs 
+    "editor.tabSize": 2,
+    // Controls whether the editor should render whitespace characters
+    "editor.renderWhitespace": true,
+    // Controls if the editor should automatically format the line after typing
+    "editor.formatOnType": true,
+    // use tab for auto-complete instead of Enter 
+    "editor.tabCompletion": true
+}
