@@ -1,0 +1,31 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // Controls the font family.
+    "editor.fontFamily": "Operator Mono, Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    // Controls the font size in pixels.
+    "editor.fontSize": 14,
+    // Enables font ligatures
+    "editor.fontLigatures": true,
+    // spaces > tabs 
+    "editor.tabSize": 2,
+    // Controls whether the editor should render whitespace characters
+    "editor.renderWhitespace": "none",
+    // Controls if the editor should automatically format the line after typing
+    "editor.formatOnType": true,
+    // use tab for auto-complete instead of Enter 
+    "editor.tabCompletion": true,
+    // Enable / disable JavaScript validation
+    "javascript.validate.enable": false,
+    // Color Highlight extension - Highlights color word 
+    "color-highlight.matchWords": false,
+    // Style of the highlight. Can be 'background', 'outline', 'underline'
+    "color-highlight.markerType": "background",
+    "window.zoomLevel": 0,
+    // Defines space handling after opening and before closing template string braces. Requires TypeScript >= 2.0.6.
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    // Defines space handling after opening and before closing JSX expression braces. Requires TypeScript >= 2.0.6.
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    // RelativePath extension configuration
+    // Removes the leading ./ character when the path is pointing to a parent folder.
+    "relativePath.removeLeadingDot": true
+  }
